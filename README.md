@@ -1,6 +1,6 @@
 # 🌐 Buscador de Termos em Páginas Web - Projeto de Programação para Internet
 
-Bem-vindo ao **Buscador de Termos em Páginas Web**, um projeto desenvolvido para a disciplina de Programação para a Internet no Instituto Federal do Piauí (IFPI). Este README explica como o sistema funciona, como utilizá-lo e como ele foi estruturado.
+Bem-vindo ao **Buscador de Termos em Páginas Web**, um projeto desenvolvido para a disciplina de Programação para a Internet I no Instituto Federal do Piauí (IFPI). Este README explica como o sistema funciona, como utilizá-lo e como ele foi estruturado.
 
 ---
 
